@@ -1,4 +1,4 @@
-# ConvertToKhmerDate
+# Convert To Khmer Date
 Convert To Khmer Date Language Support Swift 2.3 <br>
 <b>How to you it? </b><br>
 Drag file put into your project. <br>
